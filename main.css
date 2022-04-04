@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(142, 170, 170);
+    
+}
+
+.main_div{
+    background-color: aliceblue;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 495px;
+    height: 495px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+}
+
+.field{
+    background-color: rgb(201, 216, 230);
+    margin: 2px;
+    padding: 5px;
+    width: 85px;
+    height: 85px;
+    font-size: 29px;
+    text-align: center;
+}
+
+.Dzojstik{
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+
+button{
+    width: 100px;
+    height: 70px;
+    font-size: large;
+    font-weight: 900;
+}
+
+
+
+
+/*
+
+Grid
+
+*/
+
